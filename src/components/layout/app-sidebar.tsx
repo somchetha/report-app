@@ -157,9 +157,9 @@ export default function AppSidebar() {
                       showInfo
                       user={{
                         imageUrl: "/logo1.png",
-                        fullName: "rachana",
+                        fullName: "Chetha",
                         emailAddresses: [
-                            {emailAddress: "rachana@gmail.com"}
+                            {emailAddress: "Chetha@gmail.com"}
                         ]
                       }}
                     />
@@ -180,9 +180,9 @@ export default function AppSidebar() {
                       showInfo
                       user={{
                         imageUrl: "/logo1.png",
-                        fullName: "rachana",
+                        fullName: "Chetha",
                         emailAddresses: [
-                            {emailAddress: "rachana@gmail.com"}
+                            {emailAddress: "Chetha@gmail.com"}
                         ]
                       }}
                     />
